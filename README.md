@@ -16,6 +16,7 @@ The titanic.csv file contains data for 887 of the real Titanic passengers. Each 
 **Packages:** pandas, numpy, sklearn
 
 **Aurelien Geron's Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow:** https://github.com/ageron/handson-ml2
+
 **Ken Jee's notebook:** https://www.kaggle.com/code/kenjee/titanic-project-example/notebook
 
 ## Project overview
